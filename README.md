@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a PhD Candidate at the **University of Stuttgart**, diving deep into the world of construction robotics 🤖🏗️. I'm passionate about building robots that can build!
+
+When I'm not in the lab or coding, you can find me on the tennis court 🎾, carving down a mountain on my snowboard 🏂, or catching up on the latest anime 📺.
+
+Always open to chatting about robotics, research, or hobby recommendations! Feel free to reach out—I'm happy to chat in 🇮🇹 Italian, 🇺🇸 English, or even practice my 🇩🇪 German!
+
+✉️ Contact: vincenzo.orl98@gmail.com
