@@ -23,4 +23,4 @@ Always open to chatting about robotics, research, or hobby recommendations! Feel
 
 ✉️ Contact: vincenzo.orl98@gmail.com
 
-*Image credit: ©IntCDC / Photo Jürgen Altmann*
+<sub>*Image credit: ©IntCDC / Photo Jürgen Altmann*</sub>
