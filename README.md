@@ -22,3 +22,5 @@ When I'm not in the lab or coding, you can find me on the tennis court 🎾, car
 Always open to chatting about robotics, research, or hobby recommendations! Feel free to reach out—I'm happy to chat in 🇮🇹 Italian, 🇺🇸 English, or even practice my 🇩🇪 German!
 
 ✉️ Contact: vincenzo.orl98@gmail.com
+
+*Image credit: ©IntCDC / Photo Jürgen Altmann*
